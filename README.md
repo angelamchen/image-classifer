@@ -1,2 +1,2 @@
 # image-classifer
-Simple fir ML image classifier project using MNIST
+Simple first ML image classifier project using MNIST
